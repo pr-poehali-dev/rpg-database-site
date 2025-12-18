@@ -106,7 +106,7 @@ const Index = () => {
             РИВЕРФОРДЖ
           </h1>
         </div>
-        <p className="text-xl text-muted-foreground italic">База знаний мира</p>
+        <p className="text-xl text-muted-foreground italic">История вечного проклятия</p>
         <div className="mt-4 h-1 w-64 mx-auto bg-gradient-to-r from-transparent via-primary to-transparent opacity-50"></div>
       </header>
 
